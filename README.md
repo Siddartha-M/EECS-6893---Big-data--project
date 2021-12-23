@@ -32,3 +32,7 @@ sparkStreaming.py and twitterHTTPClient.py has the code for streaming the Twitte
 
 processStreamedData.py has code for calling GCP BigQuery API to do the analysis needed from the spark streaming. 
 
+Layout :
+
+Project_report - contains all the report files including pics and tex files.
+Code - All the required code.
